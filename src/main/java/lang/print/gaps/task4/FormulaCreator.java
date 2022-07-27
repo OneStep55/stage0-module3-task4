@@ -10,8 +10,8 @@ public class FormulaCreator {
         int seven = 7;
         int four = 4;
 
-        System.out.println("(" + nine + "" + a + "^" + two + " - " + five + "" + b + " + " + two + " + " + a +
-                ") * ((" + a + " + " + b + " - " + four + "" + a + "" + b + ") /" + two + ")");
+        System.out.println("(" + nine + "" + a + "^" + two + " - " + five + "" + b + " + " + two + " + " + a + " - "
+                + seven + ") * ((" + a + " + " + b + " - " + four + "" + a + "" + b + ") / " + two + ")");
 
     }
 }
